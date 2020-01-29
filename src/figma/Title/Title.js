@@ -23,10 +23,13 @@ function Title() {
                         <div class="item"> <div><h3><a href="#mission">MISSION</a></h3></div> </div>
                         <div class="item"> <div><h3><a href="#aroundtheworld">GLOBAL</a></h3></div> </div>
                         <div class="item"> <div><h3><a href="#ibbyatduke">DUKE</a></h3></div> </div>
-                        <div class="item"> <div><h3><a href="#endorsements">ENDORSEMENTS</a></h3></div> </div>
+                        {/*<div class="item"> <div><h3><a href="#endorsements">ENDORSEMENTS</a></h3></div> </div>*/}
                         <div class="item"> <div><h3><a href="#friendsofibby">FRIENDS</a></h3></div> </div>
                         <div class="item"> <div><h3><a href="#theteam">TEAM</a></h3></div> </div>
                         <div class="item"> <div><h3><a href="#connect">CONNECT</a></h3></div> </div>
+                    </div>
+                    <div id={'dropdown-menu'}>
+                        Dropdown
                     </div>
 
                 </div>
