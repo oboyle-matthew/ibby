@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ibby/static/css/main.d10c1ce9.chunk.css",
+    "main.js": "/ibby/static/js/main.64e6c552.chunk.js",
+    "main.js.map": "/ibby/static/js/main.64e6c552.chunk.js.map",
+    "runtime-main.js": "/ibby/static/js/runtime-main.0809da06.js",
+    "runtime-main.js.map": "/ibby/static/js/runtime-main.0809da06.js.map",
+    "static/js/2.f3977867.chunk.js": "/ibby/static/js/2.f3977867.chunk.js",
+    "static/js/2.f3977867.chunk.js.map": "/ibby/static/js/2.f3977867.chunk.js.map",
+    "index.html": "/ibby/index.html",
+    "precache-manifest.623417c7a1ecf691c4e5b471b75a7901.js": "/ibby/precache-manifest.623417c7a1ecf691c4e5b471b75a7901.js",
+    "service-worker.js": "/ibby/service-worker.js",
+    "static/css/main.d10c1ce9.chunk.css.map": "/ibby/static/css/main.d10c1ce9.chunk.css.map",
+    "static/js/2.f3977867.chunk.js.LICENSE": "/ibby/static/js/2.f3977867.chunk.js.LICENSE",
+    "static/media/BestBuddies.jpg": "/ibby/static/media/BestBuddies.e0c7d2c7.jpg",
+    "static/media/World.css": "/ibby/static/media/Map.46fa7c08.svg",
+    "static/media/connect_ibby.svg": "/ibby/static/media/connect_ibby.674217ab.svg",
+    "static/media/fb.svg": "/ibby/static/media/fb.f0cbf90c.svg",
+    "static/media/Friends.css": "/ibby/static/media/friendsofibbybg.c7124afd.svg",
+    "static/media/ibby-export.png": "/ibby/static/media/ibby-export.935f7519.png",
+    "static/media/Title.css": "/ibby/static/media/splash_ibby.7f950698.jpg",
+    "static/media/ibby_cutout.png": "/ibby/static/media/ibby_cutout.12425292.png",
+    "static/media/AtDuke.css": "/ibby/static/media/ibbyatdukebackground.cd9df573.svg",
+    "static/media/insta.svg": "/ibby/static/media/insta.6e6648df.svg",
+    "static/media/join.svg": "/ibby/static/media/join.d41d11f6.svg",
+    "static/media/left-arrow.svg": "/ibby/static/media/left-arrow.1468a23c.svg",
+    "static/media/org.png": "/ibby/static/media/org.04103587.png",
+    "static/media/pushpin.png": "/ibby/static/media/pushpin.375e1a6a.png",
+    "static/media/signature.svg": "/ibby/static/media/signature.ab01a5d6.svg",
+    "static/media/why-yt-graphic.svg": "/ibby/static/media/why-yt-graphic.196a7dae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0809da06.js",
+    "static/js/2.f3977867.chunk.js",
+    "static/css/main.d10c1ce9.chunk.css",
+    "static/js/main.64e6c552.chunk.js"
+  ]
+}
