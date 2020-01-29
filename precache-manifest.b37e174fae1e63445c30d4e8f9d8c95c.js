@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e2ccd3eeb1a016e3fa0a95057a0cc936",
+    "revision": "9895f64f87138037de5ad2bdadd64b49",
     "url": "/ibby/index.html"
   },
   {
-    "revision": "741c17241afd949162b4",
-    "url": "/ibby/static/css/main.d10c1ce9.chunk.css"
+    "revision": "9ac1305f6ade6dd9bec5",
+    "url": "/ibby/static/css/main.1875c193.chunk.css"
   },
   {
-    "revision": "049b3eb24ab6335a857c",
-    "url": "/ibby/static/js/2.f3977867.chunk.js"
+    "revision": "7ca5bfd7edfd8b893d11",
+    "url": "/ibby/static/js/2.66db5b93.chunk.js"
   },
   {
-    "revision": "3a5da4106a08e596432e5e2628e1ef8d",
-    "url": "/ibby/static/js/2.f3977867.chunk.js.LICENSE"
+    "revision": "4cd46fb3e8a2aa865b2d1d607cd463b8",
+    "url": "/ibby/static/js/2.66db5b93.chunk.js.LICENSE"
   },
   {
-    "revision": "741c17241afd949162b4",
-    "url": "/ibby/static/js/main.64e6c552.chunk.js"
+    "revision": "9ac1305f6ade6dd9bec5",
+    "url": "/ibby/static/js/main.9b85d3cf.chunk.js"
   },
   {
     "revision": "9414c0cfe892313300ec",
