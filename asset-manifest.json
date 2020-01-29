@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ibby/static/css/main.f48ac25b.chunk.css",
-    "main.js": "/ibby/static/js/main.9b85d3cf.chunk.js",
-    "main.js.map": "/ibby/static/js/main.9b85d3cf.chunk.js.map",
+    "main.css": "/ibby/static/css/main.0a0a0310.chunk.css",
+    "main.js": "/ibby/static/js/main.64751060.chunk.js",
+    "main.js.map": "/ibby/static/js/main.64751060.chunk.js.map",
     "runtime-main.js": "/ibby/static/js/runtime-main.0809da06.js",
     "runtime-main.js.map": "/ibby/static/js/runtime-main.0809da06.js.map",
     "static/js/2.66db5b93.chunk.js": "/ibby/static/js/2.66db5b93.chunk.js",
     "static/js/2.66db5b93.chunk.js.map": "/ibby/static/js/2.66db5b93.chunk.js.map",
     "index.html": "/ibby/index.html",
-    "precache-manifest.8d60e00f8334e44c0e687faf8b9270e5.js": "/ibby/precache-manifest.8d60e00f8334e44c0e687faf8b9270e5.js",
+    "precache-manifest.ef1fcea7da0c9c618b3ddda6e3f889a5.js": "/ibby/precache-manifest.ef1fcea7da0c9c618b3ddda6e3f889a5.js",
     "service-worker.js": "/ibby/service-worker.js",
-    "static/css/main.f48ac25b.chunk.css.map": "/ibby/static/css/main.f48ac25b.chunk.css.map",
+    "static/css/main.0a0a0310.chunk.css.map": "/ibby/static/css/main.0a0a0310.chunk.css.map",
     "static/js/2.66db5b93.chunk.js.LICENSE": "/ibby/static/js/2.66db5b93.chunk.js.LICENSE",
     "static/media/BestBuddies.jpg": "/ibby/static/media/BestBuddies.e0c7d2c7.jpg",
     "static/media/World.css": "/ibby/static/media/Map.46fa7c08.svg",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.0809da06.js",
     "static/js/2.66db5b93.chunk.js",
-    "static/css/main.f48ac25b.chunk.css",
-    "static/js/main.9b85d3cf.chunk.js"
+    "static/css/main.0a0a0310.chunk.css",
+    "static/js/main.64751060.chunk.js"
   ]
 }
